@@ -100,7 +100,7 @@ export default function Home() {
               </p>
               <Button size="lg" asChild className="mr-4">
                 <Link href="/intro">
-                  Get Started <ArrowRight className="ml-2 h-4 w-4" />
+                  Know more <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
             </motion.div>
